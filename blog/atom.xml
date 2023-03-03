@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/waiops-tech-jam/blog</id>
+    <title>IBM AIOps Automation SWAT Blog</title>
+    <updated>2023-03-03T06:01:34.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/waiops-tech-jam/blog"/>
+    <subtitle>IBM AIOps Automation SWAT Blog</subtitle>
+    <icon>https://github.com/waiops-tech-jam/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Useful resources]]></title>
+        <id>Useful resources</id>
+        <link href="https://github.com/waiops-tech-jam/blog/Useful resources"/>
+        <updated>2023-03-03T06:01:34.000Z</updated>
+        <summary type="html"><![CDATA[This article shows digital resources that you can use.]]></summary>
+        <content type="html"><![CDATA[<p>The following digital resources are available:</p><ul><li><p><a href="https://www.ibm.com/docs/en/z-logdata-analytics/5.1.0" target="_blank" rel="noopener noreferrer">IBM documentation</a></p></li><li><p><a href="https://www.ibm.com/products/z-log-and-data-analytics" target="_blank" rel="noopener noreferrer">Product page</a></p></li><li><p><a href="https://learn.ibm.com/course/view.php?id=12017" target="_blank" rel="noopener noreferrer">Digital course</a></p></li><li><p><a href="https://www.ibm.com/links?url=https%3A%2F%2Fzaiops.github.io%2Fzlda%2F" target="_blank" rel="noopener noreferrer">Video library</a></p></li></ul>]]></content>
+        <category label="openshift" term="openshift"/>
+        <category label="ocp" term="ocp"/>
+        <category label="sno" term="sno"/>
+    </entry>
+</feed>
